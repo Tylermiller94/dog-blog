@@ -1,3 +1,5 @@
+
+
 body{
   font-family: sans-serif;
   color: gray;
@@ -25,4 +27,19 @@ p {
 
 a {
   color: black;
+}
+
+.btn{
+  text-align: center;
+}
+
+.yellow-background {
+  background-color: yellow;
+}
+
+.black-background {
+  background-color: black;
+}
+.white-background {
+  background-color: white;
 }
